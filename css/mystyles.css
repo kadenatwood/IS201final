@@ -1,0 +1,38 @@
+body {
+    background-color: #178cf3; /* Light blue background */
+    font-family: Arial, sans-serif;
+    color: #333333; /* Dark grey font color */
+}
+
+.content {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    text-align: center;
+}
+
+.content ol {
+    text-align: left;
+    margin: 0 auto;
+    display: table;
+}
+.top-left-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+    padding: 5px;
+    background-color: white; /* Optional: for better visibility */
+    border: 1px solid black; /* Optional: for better visibility */
+    text-decoration: none; /* Optional: for removing underline */
+    color: black; /* Optional: set link color */
+}
+
